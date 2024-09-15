@@ -1,5 +1,6 @@
 body {
     background-color: cadetblue;
+    border-color: black;
 }
 
 a {
@@ -34,4 +35,10 @@ dt {
 
 dd {
     color: rgb(238, 105, 105);
+}
+
+div{
+    font-size: large;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
